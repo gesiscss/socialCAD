@@ -1,0 +1,251 @@
+absl-py==0.12.0
+aiocontextvars==0.2.2
+altair==4.1.0
+appdirs==1.4.4
+astor==0.8.0
+astunparse==1.6.3
+async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+base58==2.1.0
+beautifulsoup4==4.9.3
+bella-tdsa==0.3.29
+bert-score==0.3.8
+bert-sklearn
+biopython==1.78
+bleach==1.5.0
+blinker==1.4
+blis==0.2.4
+boto==2.49.0
+boto3==1.9.245
+botocore==1.12.245
+bpemb==0.3.2
+bs4==0.0.1
+cachetools==4.2.1
+captum==0.3.1
+certifi==2019.11.28
+cfgv==3.2.0
+chardet==3.0.4
+click==7.1.2
+cloudpickle==1.6.0
+configparser==5.0.2
+contextvars==2.4
+corenlp==0.0.14
+cycler==0.10.0
+cymem==2.0.2
+dataclasses==0.8
+datasets==1.4.1
+decorator==4.4.0
+deep-translator==1.4.2
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+Deprecated==1.2.12
+dill==0.3.3
+distlib==0.3.1
+docker-pycreds==0.4.0
+docopt==0.6.2
+docutils==0.15.2
+editdistance==0.5.3
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz
+entrypoints==0.3
+filelock==3.0.12
+flair==0.6.1.post1
+flatbuffers==1.12
+fsspec==0.8.7
+ftfy==5.6
+funcy==1.15
+future==0.18.2
+gast==0.3.3
+gdown==3.12.2
+gensim==3.8.1
+gitdb==4.0.7
+GitPython==3.1.14
+google-auth==1.27.1
+google-auth-oauthlib==0.4.3
+google-pasta==0.2.0
+googletrans==3.1.0a0
+graphviz==0.13
+grpcio==1.32.0
+h11==0.9.0
+h2==3.2.0
+h5py==2.10.0
+hatebase==0.6
+hpack==3.0.0
+hstspreload==2020.12.22
+html5lib==0.9999999
+httpcore==0.9.1
+httpx==0.13.3
+huggingface-hub==0.0.2
+hyperframe==5.2.0
+hyperopt==0.2.5
+identify==2.2.4
+idna==2.8
+imageio==2.9.0
+imbalanced-learn==0.8.0
+immutables==0.15
+importlib-metadata==3.7.3
+importlib-resources==5.1.2
+iniconfig==1.1.1
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1596206602906/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1593447367857/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.6.3
+Janome==0.4.1
+jedi==0.17.0
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
+jmespath==0.9.4
+joblib==1.0.1
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1612213308682/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-widgets==1.0.0
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+kiwisolver==1.1.0
+konoha==4.6.4
+langdetect==1.0.8
+language-tool-python==2.5.3
+lemminflect==0.2.2
+lime==0.2.0.1
+loguru==0.5.3
+lru-dict==1.1.7
+lxml==4.6.2
+Markdown==3.3.4
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mistune==0.8.4
+more-itertools==8.7.0
+mpld3==0.3
+multiprocess==0.70.11.1
+murmurhash==1.0.2
+nb-conda==2.2.1
+nb-conda-kernels @ file:///tmp/build/80754af9/nb_conda_kernels_1606775948551/work
+nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
+nbconvert @ file:///tmp/build/80754af9/nbconvert_1601914804165/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1610738111109/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+networkx==2.3
+nltk==3.4.5
+nodeenv==1.6.0
+notebook==6.0.3
+num2words==0.5.10
+numexpr==2.7.3
+numpy==1.19.5
+oauthlib==3.1.0
+opt-einsum==3.3.0
+overrides==3.1.0
+packaging==20.9
+pandas==1.1.5
+pandocfilters @ file:///tmp/build/80754af9/pandocfilters_1605120937332/work
+parso @ file:///tmp/build/80754af9/parso_1607623074025/work
+pathtools==0.1.2
+patsy==0.5.1
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.2.0
+plac==0.9.6
+pluggy==0.13.1
+pre-commit==2.12.1
+preshed==2.0.1
+prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
+promise==2.3
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.15.6
+psutil==5.6.3
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+py==1.10.0
+pyarrow==3.0.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pydeck==0.6.2
+pydot==1.4.1
+PyExecJS==1.5.1
+Pygments @ file:///tmp/build/80754af9/pygments_1615143339740/work
+pyLDAvis==3.2.2
+pymongo==3.5.1
+pyparsing==2.4.2
+pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1600141725711/work
+PySocks==1.7.1
+pytest==6.2.4
+python-dateutil==2.8.0
+pytz==2019.3
+PyWavelets==1.1.1
+PyYAML==5.4.1
+pyzmq==20.0.0
+regex==2020.11.13
+requests==2.25.1
+requests-oauthlib==1.3.0
+rfc3986==1.4.0
+rsa==4.7.2
+ruamel.yaml==0.16.5
+ruamel.yaml.clib==0.2.0
+s3transfer==0.2.1
+sacremoses==0.0.43
+scikit-image==0.17.2
+scikit-learn==0.24.1
+scipy==1.4.1
+seaborn==0.11.1
+segtok==1.5.10
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
+sentencepiece==0.1.95
+sentry-sdk==1.0.0
+seqeval==1.2.2
+shortuuid==1.0.1
+simpletransformers==0.61.4
+six @ file:///home/linux1/recipes/ci/six_1610970791821/work
+sklearn==0.0
+smart-open==1.8.4
+smmap==4.0.0
+sniffio==1.2.0
+soupsieve==2.2.1
+spacy==2.1.8
+sqlitedict==1.7.0
+srsly==0.1.0
+stanfordcorenlp==3.7.0.2
+statsmodels==0.12.2
+streamlit==0.80.0
+subprocess32==3.5.4
+tabulate==0.8.9
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+tensorboardX==2.2
+tensorflow==2.4.1
+tensorflow-estimator==2.4.0
+termcolor==1.1.0
+terminado==0.9.2
+terminaltables==3.1.0
+testpath @ file:///home/ktietz/src/ci/testpath_1611930608132/work
+textattack==0.2.15
+thinc==7.0.8
+threadpoolctl==2.1.0
+tifffile==2020.9.3
+tokenizers==0.10.1
+toml==0.10.2
+toolz==0.11.1
+torch==1.8.1
+torchtext==0.9.1
+tornado @ file:///tmp/build/80754af9/tornado_1606942266872/work
+tox==3.23.0
+tqdm==4.49.0
+traitlets==4.3.3
+transformers==4.3.3
+translate==3.5.0
+translate-api==4.7.16
+tweebo-parser-python-api==1.0.4
+twokenize==1.0.0
+typing-extensions==3.7.4.3
+tzlocal==2.1
+urllib3==1.25.6
+validators==0.18.2
+virtualenv==20.4.4
+wandb==0.10.27
+wasabi==0.2.2
+watchdog==2.0.3
+wcwidth==0.1.7
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension==3.5.1
+word2number==1.1
+wrapt==1.12.1
+xxhash==2.0.0
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
