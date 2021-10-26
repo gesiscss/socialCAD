@@ -125,7 +125,7 @@ nbconvert @ file:///tmp/build/80754af9/nbconvert_1601914804165/work
 nbformat @ file:///tmp/build/80754af9/nbformat_1610738111109/work
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 networkx==2.3
-nltk==3.4.5
+nltk==3.6.5
 nodeenv==1.6.0
 notebook==6.0.3
 num2words==0.5.10
