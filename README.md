@@ -8,6 +8,9 @@ python requirements and resources:
 pip install -r requirements.txt
 ``` 
 
+### Data
+- we make the type of counterfactual annotations available in the data folder with the respective ids. Please download the original datasets from their sources. 
+
 ### to run
 - to train and test models (RQ1): (will automatically generate tables with model performance and store in results): ``train_models.py``
 - to annotate CAD types: ``find and classify diffs.ipynb``
