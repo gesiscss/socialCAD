@@ -142,7 +142,7 @@ pathtools==0.1.2
 patsy==0.5.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==8.2.0
+Pillow==9.0.0
 plac==0.9.6
 pluggy==0.13.1
 pre-commit==2.12.1
