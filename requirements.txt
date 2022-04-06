@@ -127,7 +127,7 @@ nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 networkx==2.3
 nltk==3.4.5
 nodeenv==1.6.0
-notebook==6.0.3
+notebook==6.4.10
 num2words==0.5.10
 numexpr==2.7.3
 numpy==1.19.5
