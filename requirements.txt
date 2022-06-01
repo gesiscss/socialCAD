@@ -73,7 +73,7 @@ hpack==3.0.0
 hstspreload==2020.12.22
 html5lib==0.9999999
 httpcore==0.9.1
-httpx==0.13.3
+httpx==0.23.0
 huggingface-hub==0.0.2
 hyperframe==5.2.0
 hyperopt==0.2.5
