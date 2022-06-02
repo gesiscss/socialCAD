@@ -71,7 +71,7 @@ h5py==2.10.0
 hatebase==0.6
 hpack==3.0.0
 hstspreload==2020.12.22
-html5lib==0.9999999
+html5lib==0.99999999
 httpcore==0.9.1
 httpx==0.13.3
 huggingface-hub==0.0.2
